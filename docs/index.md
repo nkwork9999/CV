@@ -9,7 +9,6 @@ title: My Page
 
 | 項目名   | 内容                                    |
 | -------- | --------------------------------------- |
-|          |                                         |
 | 資格     | [資格一覧](#sikaku)                     |
 | 記事一覧 | [Zenn](https://zenn.dev/amana)          |
 | GitHub   | [Github](https://github.com/nkwork9999) |
